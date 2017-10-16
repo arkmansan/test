@@ -1,0 +1,8 @@
+[
+  {"name":"文章管理", "children":[
+    {"id":"base-button", "name":"文章列表", "target":"navtab", "url":"B-JUI/html/form/form.html"}
+  ]},
+  {"name":"文章类别管理", "children":[
+    {"id":"base-demo-form", "name":"类别列表", "target":"navtab", "url":"B-JUI/html/category/index.html"}
+  ]}
+]
